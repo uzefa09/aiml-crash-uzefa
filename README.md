@@ -34,3 +34,18 @@ Python practice tasks from AI/ML internship training at CodeTrade.
 | pandas_explore.py | Pandas data analysis | `python pandas_explore.py` |
 | fraction_class.py | Dunder methods - Fraction class | `python fraction_class.py` |
 | inventory.py | OOP + CSV - Mini inventory system | `python inventory.py` |
+---
+
+## Day 7 — Pandas & NumPy
+
+| File | Description | Run |
+|------|-------------|-----|
+| day7_task1.py | Student profile card with type hints | `python day7_task1.py` |
+| day7_task2.py | JSON file report extractor | `python day7_task2.py` |
+| day7_task3.py | Tiny class with method | `python day7_task3.py` |
+| day7_task4.py | Pandas column selection and filtering | `python day7_task4.py` |
+| day7_task5.py | loc vs iloc comparison | `python day7_task5.py` |
+| day7_task6.py | Missing values cleaning | `python day7_task6.py` |
+| day7_task7.py | describe() and value_counts() | `python day7_task7.py` |
+| day7_task8.py | NumPy arrays and slicing | `python day7_task8.py` |
+| day7_task9.py | Masking, broadcasting, cosine similarity | `python day7_task9.py` |
