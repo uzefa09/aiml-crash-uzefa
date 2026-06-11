@@ -56,3 +56,45 @@ Python practice tasks from AI/ML internship training at CodeTrade.
 | File | Description |
 |------|-------------|
 | advanced_pandas_sql.ipynb | Pandas advanced analysis + 15 SQL queries |
+## 🏆 Mini Project — EDA
+
+| File | Description |
+|------|-------------|
+| mini_project_eda.ipynb | E-Commerce Sales Performance Analysis on real Olist dataset |
+
+**Dataset:** Brazilian E-Commerce Public Dataset by Olist (Kaggle)
+
+**Key Analysis:**
+- 📦 Top revenue generating product categories
+- 🗺️ Regional sales performance across Brazil  
+- 📈 Monthly sales trends and seasonal patterns
+- 💳 Payment method analysis
+- ⭐ Customer review score analysis
+- 🔍 Data cleaning and preprocessing
+- 📊 6+ visualizations with business insights
+
+**Business Questions Answered:**
+1. Which product categories generate highest revenue?
+2. Which states contribute most sales?
+3. What are monthly purchasing patterns?
+4. How are prices and freight distributed?
+5. Which payment methods are most popular?
+6. What do customer reviews tell us?
+7.---
+
+## ⚙️ How to Run
+
+```bash
+# Clone the repo
+git clone https://github.com/uzefa09/aiml-crash-uzefa.git
+
+# Run any Python file
+python filename.py
+
+# Open Jupyter Notebooks
+jupyter notebook
+```
+
+---
+
+*Internship at CodeTrade India Pvt. Ltd. | AI/ML Domain*
