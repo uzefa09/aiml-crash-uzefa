@@ -49,3 +49,10 @@ Python practice tasks from AI/ML internship training at CodeTrade.
 | day7_task7.py | describe() and value_counts() | `python day7_task7.py` |
 | day7_task8.py | NumPy arrays and slicing | `python day7_task8.py` |
 | day7_task9.py | Masking, broadcasting, cosine similarity | `python day7_task9.py` |
+---
+
+## Advanced Pandas + SQL
+
+| File | Description |
+|------|-------------|
+| advanced_pandas_sql.ipynb | Pandas advanced analysis + 15 SQL queries |
