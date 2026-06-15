@@ -56,7 +56,7 @@ Python practice tasks from AI/ML internship training at CodeTrade.
 | File | Description |
 |------|-------------|
 | advanced_pandas_sql.ipynb | Pandas advanced analysis + 15 SQL queries |
-## 🏆 Mini Project — EDA
+##  Mini Project — EDA
 
 | File | Description |
 |------|-------------|
@@ -65,13 +65,13 @@ Python practice tasks from AI/ML internship training at CodeTrade.
 **Dataset:** Brazilian E-Commerce Public Dataset by Olist (Kaggle)
 
 **Key Analysis:**
-- 📦 Top revenue generating product categories
-- 🗺️ Regional sales performance across Brazil  
-- 📈 Monthly sales trends and seasonal patterns
-- 💳 Payment method analysis
-- ⭐ Customer review score analysis
-- 🔍 Data cleaning and preprocessing
-- 📊 6+ visualizations with business insights
+-  Top revenue generating product categories
+- Regional sales performance across Brazil  
+-  Monthly sales trends and seasonal patterns
+-  Payment method analysis
+-  Customer review score analysis
+-  Data cleaning and preprocessing
+- 6+ visualizations with business insights
 
 **Business Questions Answered:**
 1. Which product categories generate highest revenue?
@@ -98,3 +98,10 @@ jupyter notebook
 ---
 
 *Internship at CodeTrade India Pvt. Ltd. | AI/ML Domain*
+---
+
+## Linear Regression
+
+| File | Description |
+|------|-------------|
+| linear_regression.ipynb | Linear Regression on California Housing Dataset - 4 tasks |
